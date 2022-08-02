@@ -1,0 +1,15 @@
+C:\Users\uoral\Desktop\C#\Try Catch Finally Ve Mantıksal Hatalar\bin\Debug\net6.0\TryCatchFinallyVeMantıksalHatalar.exe
+C:\Users\uoral\Desktop\C#\Try Catch Finally Ve Mantıksal Hatalar\bin\Debug\net6.0\TryCatchFinallyVeMantıksalHatalar.deps.json
+C:\Users\uoral\Desktop\C#\Try Catch Finally Ve Mantıksal Hatalar\bin\Debug\net6.0\TryCatchFinallyVeMantıksalHatalar.runtimeconfig.json
+C:\Users\uoral\Desktop\C#\Try Catch Finally Ve Mantıksal Hatalar\bin\Debug\net6.0\TryCatchFinallyVeMantıksalHatalar.dll
+C:\Users\uoral\Desktop\C#\Try Catch Finally Ve Mantıksal Hatalar\bin\Debug\net6.0\TryCatchFinallyVeMantıksalHatalar.pdb
+C:\Users\uoral\Desktop\C#\Try Catch Finally Ve Mantıksal Hatalar\obj\Debug\net6.0\TryCatchFinallyVeMantıksalHatalar.csproj.AssemblyReference.cache
+C:\Users\uoral\Desktop\C#\Try Catch Finally Ve Mantıksal Hatalar\obj\Debug\net6.0\TryCatchFinallyVeMantıksalHatalar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uoral\Desktop\C#\Try Catch Finally Ve Mantıksal Hatalar\obj\Debug\net6.0\TryCatchFinallyVeMantıksalHatalar.AssemblyInfoInputs.cache
+C:\Users\uoral\Desktop\C#\Try Catch Finally Ve Mantıksal Hatalar\obj\Debug\net6.0\TryCatchFinallyVeMantıksalHatalar.AssemblyInfo.cs
+C:\Users\uoral\Desktop\C#\Try Catch Finally Ve Mantıksal Hatalar\obj\Debug\net6.0\TryCatchFinallyVeMantıksalHatalar.csproj.CoreCompileInputs.cache
+C:\Users\uoral\Desktop\C#\Try Catch Finally Ve Mantıksal Hatalar\obj\Debug\net6.0\TryCatchFinallyVeMantıksalHatalar.dll
+C:\Users\uoral\Desktop\C#\Try Catch Finally Ve Mantıksal Hatalar\obj\Debug\net6.0\refint\TryCatchFinallyVeMantıksalHatalar.dll
+C:\Users\uoral\Desktop\C#\Try Catch Finally Ve Mantıksal Hatalar\obj\Debug\net6.0\TryCatchFinallyVeMantıksalHatalar.pdb
+C:\Users\uoral\Desktop\C#\Try Catch Finally Ve Mantıksal Hatalar\obj\Debug\net6.0\TryCatchFinallyVeMantıksalHatalar.genruntimeconfig.cache
+C:\Users\uoral\Desktop\C#\Try Catch Finally Ve Mantıksal Hatalar\obj\Debug\net6.0\ref\TryCatchFinallyVeMantıksalHatalar.dll
